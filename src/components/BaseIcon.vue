@@ -1,6 +1,7 @@
 <template>
   <div class="icon-wrapper">
     <div class="icon-wrapper" v-html="svg"></div>
+    <slot />
   </div>
 </template>
 
