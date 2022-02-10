@@ -12,7 +12,7 @@
     "core-js": "^3.6.5",
     "feather-icons": "^4.28.0",
     "lodash": "^4.17.19",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "sass-loader": "^9.0.2",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0",
